@@ -15,7 +15,7 @@ HTML
 
 
 
-Markdown | Less | Pretty
+Birthday | 18/10
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
