@@ -36,6 +36,9 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 
 #### You can always count on me when no one else is helping you
 
+<img src="http://celebritiesandmovies.tumblr.com/post/121233762646/do-it-just-do-it" width="40" height="40" />
+
+
 In my entire formation i got some technical and educational skills or knowledge that could be interesting to develop different programming subjects . 
  I can speak easily in public , even if there is a huge crowd it doesn't really impact my stress or  my way of presenting .
 
