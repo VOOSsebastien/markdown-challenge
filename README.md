@@ -13,7 +13,7 @@ HTML
 
 Birthday   |Fav. color   |Fav. food   |pinneapple on pizza| 
 |---|---|---|---|
-|18/10   |Black   |chips   |<ul><li>[ ] Yes</li><li>[x] NO!</li></ul>|
+|18/10   |Black   |chips   |-[ ] Yes-[x] NO!|
 
 |   |   |
 |---|---|
@@ -22,8 +22,5 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 |Favorite food|chips|
 |pinneaple on pizza|<ul><li>[ ] Yes</li><li>[x] NO!</li></ul>|
 
+### HOBBIES
 
-### age
--[ ]24
--[x]25
--[ ]26
