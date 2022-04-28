@@ -47,7 +47,8 @@ In my entire formation i got some technical and educational skills or knowledge 
 
 ##### My sister is the devil and i really like to eat . 
 
-<a><button name="next" style = "color: red" onclick="https://www.google.com/search?q=ggole&rlz=1C1AWFC_enBE880BE880&oq=ggole&aqs=chrome..69i57j46i67i131i199i433i465j0i67i131i433l4j0i67j0i67i131i433j0i67i433.782j0j7&sourceid=chrome&ie=UTF-8"> </button></a>
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 
 
 
