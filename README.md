@@ -25,9 +25,10 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 ### HOBBIES
 * Films
 * Sports
-* Cooking
+* Food
     * Cooking
     * Bakery
+    * Eating
 * Tech
     * Computer
     * Videos games
@@ -47,9 +48,9 @@ In my entire formation i got some technical and educational skills or knowledge 
 
 ##### My sister is the devil and i really like to eat . 
 
-[<<previous](https://github.com/Kiks4000)
+[<<previous](https://github.com/Kiks4000/markdown-challenge)
 ||VOOS SEBASTIEN||
-[next>>](https://github.com/MelihAkar4020)
+[next>>](https://github.com/MelihAkar4020/markdown-challenge)
 
 
 
