@@ -10,6 +10,11 @@ HTML
 
 ## Me , in one sentence 
 
+
 Birthday   |Fav. color   |Fav. food   |pinneapple on pizza| 
 |---|---|---|---|
-|18/10   |Black   |chips   |
+|18/10   |Black   |chips   |...|
+
+|   |   |
+|---|---|
+|Birthday|18/10|
