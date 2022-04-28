@@ -27,13 +27,13 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 * Sports
 * Cooking
 * Tech
-    *ordinateur
-    *Jeux videos
-    *Electronique
+    * ordinateur
+    * Jeux videos
+    * Electronique
 * Famille
-    *Papa
-    *Maman
-    *Soeur
+    * Papa
+    * Maman
+    * Soeur
 
 
  
