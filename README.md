@@ -30,7 +30,7 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
     * Eating
 * Tech
     * Computer
-    * Videos games
+    * Video games
     * Electronics
 
 
