@@ -26,6 +26,8 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 * Films
 * Sports
 * Cooking
+    * cuisiner
+    * Patisserie
 * Tech
     * ordinateur
     * Jeux videos
@@ -34,6 +36,8 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
     * Papa
     * Maman
     * Soeur
+
+
 
 
  
