@@ -16,7 +16,7 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 |18/10   |Black   |chips   |<ul><li>[] Yes</li><li>[x] NO!</li></ul>|
 
 |   |   |
-|---|---|
+
 |Birthday|18/10|
 |Favorite color|Black|
 |Favorite food|chips|
