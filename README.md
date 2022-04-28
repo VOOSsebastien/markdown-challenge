@@ -10,6 +10,7 @@ HTML
 
 ## Me , in one sentence 
 
+--- | --- | ---
 |Birthday :       |18/10   |
 |Favorite color   |black  |
 
