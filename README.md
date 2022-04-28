@@ -12,3 +12,8 @@ HTML
 
 |Birthday :       |18/10   |
 |Favorite color   |black  |
+
+{
+    "Birthday" : "18/10",
+    "Favorite color" : "Black"
+}
