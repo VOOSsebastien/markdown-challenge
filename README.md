@@ -26,16 +26,25 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 * Films
 * Sports
 * Cooking
-    * cuisiner
-    * Patisserie
+    * Cooking
+    * Bakery
 * Tech
-    * ordinateur
-    * Jeux videos
-    * Electronique
-* Famille
-    * Papa
-    * Maman
-    * Soeur
+    * Computer
+    * Videos games
+    * Electronics
+
+
+#### You can always count on me when no one else is helping you
+
+In my entire formation i got some technical and educational skills or knowledge that could be interesting to develop different programming subjects . 
+ I can speak easily in public , even if there is a huge crowd it doesn't really impact my stress or  my way of presenting .
+
+ An other important point is that i don't have any expectations about my place in a working group , i can take as leadership , mediation , oral presentation , i can make the doc presentatino part even if my creativity isn't my main skill . 
+
+ i also manage working in english so i can translate or oraly present a project either in english or in french .
+
+ ##### Someday when i was 6 , i went to Disneyland paris with my family and my sister push me in a lift , unfortunaly i lost myself due to her wickedness . 15 minutes later my parents find me back in restaurant eating at the breakfast buffet . 
+
 
 
 
