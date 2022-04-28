@@ -37,7 +37,7 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 #### You can always count on me when no one else is helping you
 
 
-![alt text](https://celebritiesandmovies.tumblr.com/post/121233762646/do-it-just-do-it "Logo Title Text 1")
+![alt text](https://giphy.com/gifs/shia-labeouf-just-do-it-J7jsbfcJ2O5eo "Logo Title Text 1")
 
 
 In my entire formation i got some technical and educational skills or knowledge that could be interesting to develop different programming subjects . 
