@@ -23,4 +23,17 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 |pinneaple on pizza|<ul><li>[ ] Yes</li><li>[x] NO!</li></ul>|
 
 ### HOBBIES
+* Films
+* Sports
+* Cooking
+* Tech
+    *ordinateur
+    *Jeux videos
+    *Electronique
+* Famille
+    *Papa
+    *Maman
+    *Soeur
 
+
+ 
