@@ -21,3 +21,9 @@ Birthday   |Fav. color   |Fav. food   |pinneapple on pizza|
 |Favorite color|Black|
 |Favorite food|chips|
 |pinneaple on pizza|<ul><li>[ ] Yes</li><li>[x] NO!</li></ul>|
+
+
+### age
+-[ ]24
+-[x]25
+-[ ]26
