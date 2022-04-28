@@ -47,7 +47,8 @@ In my entire formation i got some technical and educational skills or knowledge 
 
 ##### My sister is the devil and i really like to eat . 
 
-[previous](https://www.google.com)
+[<<previous>>](https://www.google.com)
+||VOOS SEBASTIEN||
 [next](https://www.google.com)
 
 
