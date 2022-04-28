@@ -10,13 +10,5 @@ HTML
 
 ## Me , in one sentence 
 
---- | --- | ---
-|Birthday :       |18/10   |
-|Favorite color   |black  |
-
-
-
-Birthday | 18/10
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Birthday   |etc   |
+|---|---|
